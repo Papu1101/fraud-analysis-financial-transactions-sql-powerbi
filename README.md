@@ -31,5 +31,5 @@ This project simulates a corporate-grade fraud detection workflow to translate t
 
 ## 🛠️ Tools & Technologies
 
-- **Primary:** PostgreSQL (pgAdmin4), Power BI Desktop  
+- **Primary:** PostgreSQL (pgAdmin4), Power BI Desktop 
 
