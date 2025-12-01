@@ -1,0 +1,27 @@
+## BUISNESS QUESTION
+
+What is the overall fraud rate in the dataset?
+
+What is the total financial loss caused by fraudulent transactions?
+
+Which merchant categories have the highest number of fraudulent transactions?
+
+Which merchant categories contribute the most to fraud loss?
+
+Which transaction types have the highest fraud rate?
+
+Which transaction types cause the highest fraud loss?
+
+Which countries are most frequently involved in fraudulent transactions?
+
+Which countries have the highest fraud-related financial loss?
+
+How does fraud vary across different IP-Risk Score ranges?
+
+What percentage of high IP-Risk Score transactions result in fraud? 100%
+
+Which attribute combinations form repeated suspicious fraud patterns?
+
+Which users show repeated high-risk or fraudulent behavior?
+
+
